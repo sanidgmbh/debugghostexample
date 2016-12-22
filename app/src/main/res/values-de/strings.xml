@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DebugGhostExample</string>
+    <string name="ghost_is_running">DebugGhostService sollte bereits laufen.\nSchau\' in die Benachrichtigungsleiste und gehe mit Deinem Browser Deiner Entwicklungsmaschine auf die dort angegeben IP-Adresse und Portnummer.</string>
+    <string name="no_data_yet">TEST Noch keine Daten in der Liste</string>
+</resources>
