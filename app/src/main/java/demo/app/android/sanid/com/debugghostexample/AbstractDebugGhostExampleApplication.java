@@ -5,7 +5,7 @@ import android.app.Application;
 /**
  * Created by norbertmoehring on 22/12/2016.
  */
-public class AbstractDebugGhostExampleApplication extends Application {
+public abstract class AbstractDebugGhostExampleApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
